@@ -20,5 +20,7 @@
 **本仓库包含**
 
 * 源码：[/DBManager](./DBManager)
+  * GUI：tikinter图形界面
+  * emSQL：嵌入式SQL（非标准）
 * 程序使用说明：[/实验四程序使用说明.pdf](./实验四程序使用说明.pdf)
 * 开发过程中的图表：根目录 ``vsdx`` ``drawio`` ``png`` 文件
