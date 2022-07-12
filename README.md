@@ -7,6 +7,7 @@
 **项目说明**
 
 * 本仓库是哈尔滨工业大学（威海）T**数据库实验四
+* 本仓库地址：https://github.com/HistoneVon/DBManager
 
 **开发环境**
 
